@@ -12,6 +12,8 @@
 
 - Customizable: Wave allows you to save and manage your favorite scripts, making it easy to switch between different setups.
 
+![1_aspPcaNlmHbBgHJ9wWO5OA](https://github.com/user-attachments/assets/804aa1c1-0740-494c-9022-a7c945bc45fe)
+
 # Usage
 - Using Wave is straightforward:
 
